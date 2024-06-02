@@ -2,3 +2,5 @@
 ![image](https://github.com/IgorAguiar-Giro/RestAPI/assets/80079216/15610921-d6be-41e9-aaf9-454d6ecff5be)
 ![image](https://github.com/IgorAguiar-Giro/RestAPI/assets/80079216/56f1ecc3-5af9-46d5-bdab-613b045cc575)
 ![image](https://github.com/IgorAguiar-Giro/RestAPI/assets/80079216/92c0fbf7-b071-41eb-b441-6a3ebb246c7e)
+![image](https://github.com/IgorAguiar-Giro/RestAPI/assets/80079216/3c4a141b-ae05-4dc6-885c-4457054255ff)
+![image](https://github.com/IgorAguiar-Giro/RestAPI/assets/80079216/dc41fe5e-7df5-43bd-8540-607b47962e03)
